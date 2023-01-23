@@ -1,2 +1,2 @@
 # javascript-basico
-Exercicios basicos de javascript
+Exercícios de JavaScript
